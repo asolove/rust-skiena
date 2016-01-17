@@ -1,0 +1,7 @@
+[package]
+name = "ch5_graph_traversal"
+version = "0.1.0"
+authors = ["Adam Solove <asolove@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
